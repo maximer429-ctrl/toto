@@ -2,6 +2,10 @@
 dolt/
 dolt-access.lock
 
+dolt-server.port
+dolt-server.activity
+dolt-monitor.pid
+
 # Runtime files
 bd.sock
 bd.sock.startlock
